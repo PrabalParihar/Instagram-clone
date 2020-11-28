@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_feed.xml.flat",
+        "source": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_feed.xml"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_list.xml.flat",
+        "source": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_list.xml"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu_share_menu.xml.flat",
+        "source": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\src\\main\\res\\menu\\share_menu.xml"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_instagramlogo.png.flat",
+        "source": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\src\\main\\res\\drawable\\instagramlogo.png"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\prabal prathap singh\\Instagram\\Instagram\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
